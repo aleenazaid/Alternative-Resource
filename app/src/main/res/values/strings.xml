@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Alternative_Recourse</string>
+    <string name="string_es" />
+        <string name="greeting">¡Hola!</string>
+</resources>
